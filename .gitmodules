@@ -1,3 +1,0 @@
-[submodule "external/iOS-SDK"]
-	path = external/iOS-SDK
-	url = https://github.com/Estimote/iOS-SDK.git
